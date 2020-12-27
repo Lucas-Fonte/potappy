@@ -15,3 +15,7 @@
 ## Summary
 
 Simple copy of flappy bird, done as quickly as possible
+
+## Usage
+
+Can be found here https://lucas-fonte.github.io/potappy/index.html!
